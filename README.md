@@ -23,10 +23,12 @@ que desejam melhorar sua organização.
 - Ana Pereira
 
 ## Tecnologias Utilizadas
+| Categoria | Tecnologia |
 |-----------|------------|
 | Linguagem de Programação | JavaScript |
 | Banco de Dados | PostgreSQL |
 | Interface | HTML e CSS |
+
 =======
 # Atividade.es
 >>>>>>> d3b0715d6c726413e79dabadf20cd2ead788ddec
